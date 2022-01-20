@@ -1,0 +1,3 @@
+Nesse primeiro desafio foi criado um repositório para o bootcamp da Take Blip. 
+
+A internção é deixar organizado os codigos e estudos do bootcamp.
